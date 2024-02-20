@@ -125,6 +125,8 @@ List of resources I found helpful and would like to give credit to
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [project-screenshot]: images/screenshot.png
