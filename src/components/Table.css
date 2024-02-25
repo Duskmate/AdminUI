@@ -32,5 +32,16 @@
 
 .btnDisabled {
     border-radius: 25px;
-    padding: 0rem 1rem;
+    padding: 1rem;
+}
+
+@media (max-width: 720px) {
+    .pagination {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pagination .page {
+        padding: 1rem 0rem;
+    }
 }

@@ -100,7 +100,7 @@ export default function DataTable({
             {userData.length>0?
                 <div className="pagination">
                     <button className={`${selected.size>0? 'deleteButton': 'btnDisabled'}`} onClick={() => handleDeleteButton(rows)} >Delete Selected</button>
-                    <Pagination count={Math.ceil(originalUserData.length/rows)} showFirstButton showLastButton
+                    <Pagination className="page" count={Math.ceil(originalUserData.length/rows)} showFirstButton showLastButton
                         onChange={(event, page) => {
                             setCurrentPage(page)
                             handlePagination(page, rows)
