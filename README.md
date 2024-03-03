@@ -122,7 +122,7 @@ Saksham Singhal - [@dusk.mate](https://www.instagram.com/dusk.mate/) - hello@sak
 
 List of resources I found helpful and would like to give credit to
 
-* [Geektrust][https://www.geektrust.com/code-challenges]
+* [Geektrust](https://www.geektrust.com/code-challenges)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template/tree/master)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
