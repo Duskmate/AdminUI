@@ -9,7 +9,7 @@
 -->
 
 # AdminUI
-An interface for admins to see and delete users
+An interface for admins to view, edit and delete users
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -38,6 +38,7 @@ An interface for admins to see and delete users
 ## About The Project
 
 [![Project Name Screen Shot][project-screenshot]](https://geektrust-adminui-saksham.netlify.app/)
+[![Geektrust Score][geektrust-score]]
 
 ### Problem Statement:
 
@@ -65,7 +66,7 @@ GET : https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Major frameworks/libraries used in the project.
 
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
@@ -121,6 +122,7 @@ Saksham Singhal - [@dusk.mate](https://www.instagram.com/dusk.mate/) - hello@sak
 
 List of resources I found helpful and would like to give credit to
 
+* [Geektrust][https://www.geektrust.com/code-challenges]
 * [Best README Template](https://github.com/othneildrew/Best-README-Template/tree/master)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
@@ -130,6 +132,7 @@ List of resources I found helpful and would like to give credit to
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [project-screenshot]: images/screenshot.png
+[geektrust-score]: images/Geektrust_Score.jpg
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
