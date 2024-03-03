@@ -38,7 +38,7 @@ An interface for admins to view, edit and delete users
 ## About The Project
 
 [![Project Name Screen Shot][project-screenshot]](https://geektrust-adminui-saksham.netlify.app/)
-[![Geektrust Score][geektrust-score]]
+![Geektrust Score][geektrust-score]
 
 ### Problem Statement:
 
